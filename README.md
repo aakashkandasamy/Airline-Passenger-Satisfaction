@@ -13,10 +13,10 @@ Alongside this machine learning model, a web application has been developed to p
 # Installation and Usage
 To use this machine learning model and web app, follow the steps below:
 
-Clone this repository
-Install the required packages by running pip install -r requirements.txt
-Run the web app by executing streamlit run app.py in your terminal
-Use the interface to input your flight details and obtain a predicted customer rating.
+Clone this repository  
+Install the required packages by running pip install -r requirements.txt  
+Run the web app by executing streamlit run app.py in your terminal  
+Use the interface to input your flight details and obtain a predicted customer rating  
 
 # Conclusion
 This machine learning model and web app provide a useful tool for customers to make informed decisions about their flights. With accurate predictions and easy-to-use interface, it allows for a smooth user experience.
