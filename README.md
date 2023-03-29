@@ -15,6 +15,7 @@ To use this machine learning model and web app, follow the steps below:
 
 * Clone this repository  
 * Install the required packages by running pip install -r requirements.txt  
+* Make a folder called .streamlit to store the config.toml file (Note: This is only for the theme and can be ignored)
 * Run the web app by executing streamlit run app.py in your terminal  
 * Use the interface to input your flight details and obtain a predicted customer rating  
 
