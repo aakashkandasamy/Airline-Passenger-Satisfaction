@@ -11,7 +11,7 @@ The machine learning model used in this project is a regression model trained on
 Alongside this machine learning model, a web application has been developed to provide a user-friendly interface for users to interact with the model. The app allows users to input various factors to obtain a predicted rating. Additionally, the app provides comparisons to other flights' data, allowing users to make informed decisions about their flights.
 
 ## Installation and Usage
-We have deployed our App, so you can access it right now at: 
+We have deployed our App, so you can access it right now at:
 #### https://aakashkandasamy-airline-passenger-satisfa-applicationapp-xqttro.streamlit.app/
 
 ## Conclusion
