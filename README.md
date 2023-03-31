@@ -11,13 +11,8 @@ The machine learning model used in this project is a regression model trained on
 Alongside this machine learning model, a web application has been developed to provide a user-friendly interface for users to interact with the model. The app allows users to input various factors to obtain a predicted rating. Additionally, the app provides comparisons to other flights' data, allowing users to make informed decisions about their flights.
 
 ## Installation and Usage
-To use this machine learning model and web app, follow the steps below:
-
-* Clone this repository  
-* Install the required packages by running pip install -r requirements.txt  
-* Make a folder called .streamlit to store the config.toml file (Note: This is only for the theme and can be ignored)
-* Run the web app by executing streamlit run app.py in your terminal  
-* Use the interface to input your flight details and obtain a predicted customer rating  
+We have deployed our App, so you can access it right now at: 
+### https://aakashkandasamy-airline-passenger-satisfa-applicationapp-xqttro.streamlit.app/
 
 ## Conclusion
 This machine learning model and web app provide a useful tool for customers to make informed decisions about their flights. With accurate predictions and easy-to-use interface, it allows for a smooth user experience.
