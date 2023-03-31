@@ -3,11 +3,11 @@ import pandas as pd
 import altair as alt
 from streamlit import container
 
-st.set_page_config(layout="wide", page_title="Airline Passenger Rating")
+st.set_page_config(layout="wide", page_title="Airline Passenger Rating", page_icon = "✈️")
 
 
 
-st.title("Airline Passenger Satisfacion")
+st.title("Airline Passenger Satisfaction")
 
 st.header("Welcome to the Airline Passenger Satisfaction tester!")
 
