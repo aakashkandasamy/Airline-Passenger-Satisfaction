@@ -7,7 +7,7 @@ st.set_page_config(layout="wide", page_title="Airline Passenger Rating")
 
 
 
-st.title("Airline Passenger Satisfaction")
+st.title("Airline Passenger Satisfacion")
 
 st.header("Welcome to the Airline Passenger Satisfaction tester!")
 
